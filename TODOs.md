@@ -44,3 +44,5 @@ res
 - prozkoumat categorical variables support v XGBoost
 - xgboost plot marginal dependence vsechny variables
 - hyperparam add optuna
+- make sure to be aligned with: V podmínkách pro zakončení předmětu je třeba smazat prohlášení typu "Podmínky udělení zápočtu neumožňují opravné termíny" či "Zápočet nelze opakovat" a místo toho jednoznačně uvést, které součásti zápočtu lze opravovat a jakým způsobem, tak aby bylo dodrženo právo studenta na minimálně dvě opravy jednotlivých částí. Pokud se k zápočtu např. vyžaduje úspěšné vyřešení šesti úkolů z osmi zadaných, je tím už právo na dvě opravy naplněno, protože student může libovolné dva úkoly vyřešit špatně nebo nevyřešit vůbec, a zápočet i tak dostane. V případě bodovacích systémů, kdy se nasčítávají body za různé úkoly či testy, stačí dát možnost dva z oněch bodovaných výstupů vylepšit či nahradit, případně získat dodatečné body za nějakou práci navíc. V případě, že vyučující si s formulací podmínek zápočtu neví rady, jsem ochoten poradit či pomoci."
+
